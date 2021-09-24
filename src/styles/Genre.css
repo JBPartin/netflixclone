@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.genre{
+  margin-bottom: 20px;
+}
+
+.genre h1 {
+  font-size: 25px;
+  margin: 0 0 15px 4%;
+}
+
+.movie {
+  display: block;
+  width: 100%;
+  margin: 0;
+}
+
+.movie img {
+  width: 100%;
+  border-radius: 5px;
+}
